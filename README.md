@@ -8,7 +8,7 @@
 
 ### Quem é a TainaRaio? 
 
-<img src='./assets/female-ghost-face.png' width=500 alt='foto ilustrativa de uma mulher ghost face'> // ALTERAR PARA UMA FOTO SUA OU QUE TE REPRESENTE. 
+<img src='./assets/female-ghost-face.png' width=500 alt='foto ilustrativa de uma mulher ghost face'> 
 
 [Tainã Raio](https://www.instagram.com/tainaraio/)
 
