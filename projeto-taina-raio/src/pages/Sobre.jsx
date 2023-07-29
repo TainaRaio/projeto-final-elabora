@@ -35,14 +35,17 @@ const Cursos = () => {
      
       <div className={styles.sobreContainer}>
       <img className={styles.taiImage} src={imgsobreum} alt="Imagem de Tai" />
+      
       <div className={styles.textContainer}>
+      <h1 className={styles.legenda}>Margem esquerda com imagem de 3 mulheres em local aberto sorrindo juntas </h1>
 <h1 className={styles.cardNome}>ELAborar</h1>
 <p className={styles.cardParagrafo}>Somos uma ação de apoio á mulheres diversas,  negras, nordestinas,  com diferentes orientações sexuais, em situação de vulnerabilidade social, neurodiversas e mães.
 Temos como próposito inserir mulheres no mercado de trabalho e assim aumentar  equidade e inclusão.</p>
-
     </div>
   </div>
+  
 </div>
+
     
     
 
